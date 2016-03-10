@@ -24,7 +24,7 @@
         "yiisoft/yii2-debug": "*",
         "yiisoft/yii2-gii": "*",
         "yiisoft/yii2-faker": "*",
-        "rmrevin/yii2-fontawesome": "~2.12",
+        "rmrevin/yii2-fontawesome": "~2.12"
     },
     "config": {
         "process-timeout": 1800
